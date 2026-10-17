@@ -13,3 +13,13 @@ venv/
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Test and coverage reports
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
